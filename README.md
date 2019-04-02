@@ -9,7 +9,7 @@ Get Weight from USB Scales supports the follow type scales:
 You could add more scale types by adding the vendor/product hardware ids for the HID-compliant device
 
 some more you could add it:
-
+```
   // Stamps.com Model 510 5LB Scale
     {0x1446, 0x6a73},
     // USPS (Elane) PS311 "XM Elane Elane UParcel 30lb"
@@ -28,4 +28,5 @@ some more you could add it:
     {0x0922, 0x8004},
     // DYMO 1772057 Digital Postal Scale
     {0x0922, 0x8003}
+    ```
     
