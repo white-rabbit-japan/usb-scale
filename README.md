@@ -1,6 +1,6 @@
 # usb-scale
 
-### Written in C# for .NET progjects
+### Written in C# for .NET projects
 
 Get Weight from USB Scales supports the follow type scales:
 - DYMO M25; and,
