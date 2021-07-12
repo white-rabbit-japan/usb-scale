@@ -8,7 +8,7 @@ Get Weight from USB Scales supports the follow type scales:
 
 You could add more scale types by adding the vendor/product hardware ids for the HID-compliant device
 
-Some more scale types you could add in to the cod here
+Some more scale types you could add in to the code here
 https://github.com/white-rabbit-japan/usb-scale/blob/master/scale.cs#L47-L59
 
 ```
